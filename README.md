@@ -129,7 +129,7 @@ To verify everything is available, run the first code cell in the notebook which
 
 A complete walkthrough of this project is available at:
 
-**[Link to your video - YouTube, Loom, or Google Drive]**
+****https://www.youtube.com/watch?v=cUe89h9-MYU
 
 The video covers:
 - Data loading and memory optimisation strategy
